@@ -13,8 +13,8 @@ się nazwy defektów które są do nich przypisane
 *TestRun_gildia.pdf - Plik zawiera informacje na temat zestawów testowych, przypadków testowych ich przebiegu  (Do pobrania)
 
 Folder Wada - zawiera błędy odnalezione na stronie Gildia.pl
-Wyjaśnienie nazw: Każdy z defektów ma swój identyfikar np: Opis_defektu-GP-3, który mówi nam do którego przypadku testowego należy, 
-ten szczególny opis mówi że ten konkretny defekt należy do przypadku testowego, który zawiera identyfikator GP-3
+Każdy defekt jest przypisany do przypadku testowego, gdy wejdziesz do pliku Projekt_gildia.txt i uruchomisz znajdujący się tam Link i po wybraniu przypadku testowego klikniesz na zakładkę 
+defekt to otrzymasz informacje, który defekt pasuję do tego przypadku (O ile ten przypadek ma defekt)
 
 
 
