@@ -5,6 +5,7 @@ Gildia.pl - Portal zajmuje się kulturą i rozrywką w szerokim rozumieniu: od l
 Ale krótko mowiąc jest to księgarnia online w której możesz zamawiać produktu różnego typu jak książki, gry, podkładki itp.
 
 Nawigacja:
-
+GP-Testy_Gildia.pl.pdf - Znajduja sie zestawy testow, przypadki testow i ich runy w wygodnej formie pdf 
+Gildia-Projekt-Test_Run.txt - zawiera link do strony internetowej Qase w ktora jest przejrzysta i mozna zobaczyc rezultaty testow
 
 
