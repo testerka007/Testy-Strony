@@ -7,6 +7,7 @@ Ale krótko mowiąc jest to księgarnia online w której możesz zamawiać produ
 Nawigacja:
 GP-Testy_Gildia.pl.pdf - Znajduja sie zestawy testow, przypadki testow i ich runy w wygodnej formie pdf 
 
-Gildia-Projekt-Test_Run.txt - zawiera link do strony internetowej Qase w ktora jest przejrzysta i mozna zobaczyc rezultaty testow
+Gildia-Projekt-Test_Run.txt - zawiera link do strony internetowej Qase w ktorej w przejrzysty sposob zostal pokazany
+przebieg testow
 
 
