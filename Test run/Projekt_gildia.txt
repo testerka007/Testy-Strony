@@ -1,0 +1,11 @@
+Gildia-Projekt
+Tutaj znajduję się test run zestawów testowych, zestawy testowe zostały podzielone na :
+Rejestracje
+Logowanie
+Schowek/Cart
+Wyszukiwarka i kategorie
+Formularz
+
+Wszystkie testy zostały udokumentowne na stronie internetowej Qase
+
+Oto link do  test run: https://app.qase.io/public/report/f7e304735641e3bec7f0a3cc1ba15016499ad78d
