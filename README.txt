@@ -12,7 +12,7 @@ się nazwy defektów które są do nich przypisane
 
 *TestRun_gildia.pdf - Plik zawiera informacje na temat zestawów testowych, przypadków testowych ich przebiegu  (Do pobrania)
 
-*TestPlan - Plik formatu xls to plik który zawiera informacje na temat projektu_gildia
+*TestPlan_Gildia.pl - Plik formatu xls to plik który zawiera informacje na temat projektu_gildia
 
 *Projekt_Gildia.pl_Testy_automatyczne.side - Przypadki testowe, które zostały zautomatyzowane za pomocą narzędzia SELENIUM IDE. 
 
