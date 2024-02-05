@@ -1,9 +1,12 @@
 Środowisko testowe nazwa: Testing Env
+Obiekt testów: Księgarnia internetowa Gildia.pl Latest Ver
 
 System operacyjny:
 Windows 11 Home
 
-Wyszukiwarka
+Wyszukiwarka:
 Chrome
 
-Obiekt testów: Księgarnia internetowa Gildia.pl Latest Ver
+Narzędzia: 
+Strona internetowa Qase
+Selenium IDE
