@@ -14,8 +14,10 @@ się nazwy defektów które są do nich przypisane
 
 *TestPlan - Plik formatu xls to plik który zawiera informacje na temat projektu_gildia
 
-*Projekt_Gildia.pl_Testy_automatyczne.side - Przypadki testowe, które zostały zautomatyzowane zza pomocą narzędzia SELENIUM IDE. 
-Exportowanie pliku do SELENIUM IDE
+*Projekt_Gildia.pl_Testy_automatyczne.side - Przypadki testowe, które zostały zautomatyzowane za pomocą narzędzia SELENIUM IDE. 
+
+Exportowanie pliku do SELENIUM IDE:
+
 1.Musisz mieć zainstalowaną wtyczkę SELENIUM IDE w swojej przeglądarcie
 2.Uruchom SELENIUM IDE 
 3.Kliknij przycisk "Open an existing project"
@@ -26,8 +28,7 @@ Wszystkie zautomatyzowane przypadki testowe zawierają w nazwie identyfikator "T
 *Środowisko - Zawiera informacje na temat środowiska oraz narzędzi wykorzystanych podczas testów
 
 
-
-Folder Wada - zawiera błędy odnalezione na stronie Gildia.pl
+Folder Wada - zawiera defekty odnalezione na stronie Gildia.pl
 Każdy defekt jest przypisany do przypadku testowego, gdy wejdziesz do pliku Projekt_gildia.txt i uruchomisz znajdujący się tam Link to zobaczysz, że każdy przypadek testowy ma
 identyfikator np : "TEST-2".
 W folderze "Wada" każdy defekt zawiera identyczny identyfikator, który informuje o tym do którego przypadku testowego jest przypisany
