@@ -5,7 +5,7 @@ Gildia.pl - Portal zajmuje się kulturą i rozrywką w szerokim rozumieniu: od l
 Ale krótko mowiąc jest to księgarnia online w której możesz zamawiać produktu różnego typu jak książki, gry, podkładki itp.
 
 Nawigacja:
-W folderze "Test run" znajdują się 4 pliki : 
+W folderze "Test run" znajdują się 5 pliki : 
 
 *Projekt_gildia.txt - zawiera link do strony Qase w której zostały opisane Zestawy, przypadki i przebiegi testów, również znajdują
 się nazwy defektów które są do nich przypisane
@@ -22,6 +22,8 @@ Exportowanie pliku do SELENIUM IDE
 4.Następnie wybierz plik: Projekt_Gildia.pl_Testy_automatyczne.side
 
 Wszystkie zautomatyzowane przypadki testowe zawierają w nazwie identyfikator "TEST-1", który informuję z którym przypadkiem testowym jest powiązany
+
+*Środowisko - Zawiera informacje na temat środowiska oraz narzędzi wykorzystanych podczas testów
 
 
 
