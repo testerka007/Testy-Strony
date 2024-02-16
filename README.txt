@@ -1,3 +1,6 @@
+Z Góry informuje że plik nie ma rozszerzenia "md" ponieważ wystepowały pewne problemy. Dziekuę za zrozumienie
+
+
 Projekty Testowe
 
 Witam mam na imię Dawid kilian i jak już wiesz jest to moje repozytorium.
